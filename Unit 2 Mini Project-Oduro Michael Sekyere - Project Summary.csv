@@ -1,0 +1,20 @@
+Name:,Oduro Michael Sekyere,,,,,,,
+Choosen Domain:,Education,,,,,,,
+,,,,,,,,
+Description Of  Each Sheet.,,,,,,,,
+"1. The students sheet contains information about each student, that is: student_id, name, gender, school and region.",,,,,,,, 
+"2. The subject sheet lists the subject offered in the school, that is: subject_id, subject_name and the teachers who teaches the subject.",,,,,,,,
+"3. The score sheet contains the grades students obtained in the various subjects, that is: student_id, subject_id, score and the date the exams was taken.",,,,,,,,
+,,,,,,,,
+Summary Of Data Cleaning Steps:,,,,,,,,
+,,"1. Fixed inconsistent text cases (converted all names to Proper Case)
+2. Trimmed extra spaces using =TRIM()
+3. Handled missing values (replaced “N/A” with blank cells)
+4. Standardized date format to YYYY-MM-DD
+5. Corrected data entry errors",,,,,,
+,,,,,,,,
+Key Insights From Your Analysis:,,,,,,,,
+,,"1. On average, Science is the subject students performed  well in the exams.",,,,,,
+,,"2. On average, ICT is the subject students got the least score in the exam.",,,,,,
+,,"3. Legon Senior is the school whic has the highest number of students, 13,  who took part in the examination for all the five subjects.",,,,,,
+,,4. 68.56 is the average score in the exams.,,,,,,
