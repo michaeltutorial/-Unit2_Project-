@@ -1,9 +1,0 @@
-Data Cleaning Process.
-1. I used control CTRL + H to check for missing values(N/A) and errors(#)  in all sheets.
-"2. I selected the whole sheet, clicked on data, selected data cleanup and choose Remove duplicates."
-This step was applied in all the sheets.
-"3. I selected the whole sheet, clicked on data, selected data cleanup and choose Trim whitspace."
-This step was applied in all the sheets.
-4. Corrected data entry errors.
-5. Fixed inconsistent text cases using =PROPER() for name categories and =UPPER() for binary categories like gender.
-6. Standardized the date format to MM-DD-YY format.
